@@ -1,0 +1,15 @@
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\DZn25.csproj.AssemblyReference.cache
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\DZn25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\DZn25.AssemblyInfoInputs.cache
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\DZn25.AssemblyInfo.cs
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\DZn25.csproj.CoreCompileInputs.cache
+C:\Users\Владимер\DZnum11.03\DZn25\bin\Debug\net6.0\DZn25.exe
+C:\Users\Владимер\DZnum11.03\DZn25\bin\Debug\net6.0\DZn25.deps.json
+C:\Users\Владимер\DZnum11.03\DZn25\bin\Debug\net6.0\DZn25.runtimeconfig.json
+C:\Users\Владимер\DZnum11.03\DZn25\bin\Debug\net6.0\DZn25.dll
+C:\Users\Владимер\DZnum11.03\DZn25\bin\Debug\net6.0\DZn25.pdb
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\DZn25.dll
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\refint\DZn25.dll
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\DZn25.pdb
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\DZn25.genruntimeconfig.cache
+C:\Users\Владимер\DZnum11.03\DZn25\obj\Debug\net6.0\ref\DZn25.dll
